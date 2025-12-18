@@ -1,2 +1,11 @@
 # Magic-Eight-Ball
-This project is a magic eight ball that will generate an answer of 0-8 depending on the question.
+This is a beginner magic eight ball project completed as part of the Codecademy Backend course.
+
+## What it does
+- This will give a random answer to the question asked.
+
+## Tech used
+- JavaScript.
+  
+## Notes
+This project is part of my learning journey and focuses on fundamentals.
